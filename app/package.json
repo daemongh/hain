@@ -47,6 +47,7 @@
     "lodash.uniq": "^4.2.1",
     "material-ui": "0.15.0-alpha.2",
     "mathjs": "^3.0.0",
+    "moment": "^2.18.1",
     "node-persist": "0.0.10",
     "plist": "2.0.1",
     "react": "^0.14.7",
